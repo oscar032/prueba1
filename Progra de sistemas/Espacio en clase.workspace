@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="programa1/programa1.cbp" />
+		<Project filename="programa2/programa2.cbp" />
+		<Project filename="programa3/programa3.cbp" />
+		<Project filename="programa 4/programa 4.cbp" />
+		<Project filename="programa5/programa5.cbp" />
+		<Project filename="programa6/programa6.cbp" />
+		<Project filename="programa7/programa7.cbp" />
+		<Project filename="programa8/programa8.cbp" />
+		<Project filename="programa9/programa9.cbp" />
+		<Project filename="programa10/programa10.cbp" />
+		<Project filename="tarea/tarea.cbp" />
+		<Project filename="programa11/programa11.cbp" />
+		<Project filename="programa12/programa12.cbp" />
+		<Project filename="prueba1/prueba1.cbp" />
+		<Project filename="programa13/programa13.cbp" />
+		<Project filename="programa14/programa14.cbp" />
+		<Project filename="programa14 mejorado/programa14 mejorado.cbp" />
+		<Project filename="tarea2/tarea2.cbp" />
+		<Project filename="tarea ciclo for/tarea ciclo for.cbp" />
+		<Project filename="tabla multiplicar/tabla multiplicar.cbp" />
+		<Project filename="tarea3/tarea3.cbp" />
+		<Project filename="tarea3_1/tarea3_1.cbp" />
+		<Project filename="procedimientos1/procedimientos1.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
